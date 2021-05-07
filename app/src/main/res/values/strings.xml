@@ -4,4 +4,6 @@
     <string name="display_user_enter">Display what user enter</string>
     <string name="disabled">Disabled</string>
     <string name="enabled">Enabled</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
 </resources>
