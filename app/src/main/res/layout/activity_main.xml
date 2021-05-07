@@ -32,4 +32,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/display_user_enter" />
+
+    <ToggleButton
+        android:id="@+id/toggleButtonEnabled"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ToggleButton"
+        android:textOff="@string/disabled"
+        android:textOn="@string/enabled" />
 </LinearLayout>

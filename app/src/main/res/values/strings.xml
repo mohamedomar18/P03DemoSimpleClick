@@ -2,4 +2,6 @@
     <string name="app_name">P03 Demo simple click</string>
     <string name="enter">Enter something</string>
     <string name="display_user_enter">Display what user enter</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
 </resources>
